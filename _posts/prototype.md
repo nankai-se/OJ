@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 原型图1.0
 ---
 * 原型图:
